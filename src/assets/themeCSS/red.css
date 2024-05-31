@@ -1,0 +1,17 @@
+.setcolor{
+    color:red
+}
+.display{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    background-color: black;
+}
+.navbar {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(139, 255, 145);
+}

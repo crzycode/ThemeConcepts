@@ -1,0 +1,17 @@
+.setcolor{
+    color:blue
+}
+.display{
+    display: grid;
+    width: 400px;
+    justify-content: space-between;
+    background-color: red;
+}
+.navbar {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 228, 243);
+}
